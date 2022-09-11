@@ -1,0 +1,7 @@
+.search-area {
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: black;
+}

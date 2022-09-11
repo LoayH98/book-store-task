@@ -1,0 +1,9 @@
+.container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.hide-spinner{
+    display: none;
+}
